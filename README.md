@@ -130,4 +130,5 @@ The key parts of the program are:
 - Add task priorities (low, medium, high).
 - Add sorting of tasks by due date or priority.
 - Allow editing of existing tasks.
+
 # TaskPal
